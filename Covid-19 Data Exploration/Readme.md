@@ -2,6 +2,8 @@
 
 This repository contains SQL queries used to analyze COVID-19 data including total cases, deaths, vaccination rates, and more. These queries were developed to extract insights and provide a comprehensive understanding of the pandemic's impact across locations and time.
 
+[Dashboard](https://public.tableau.com/app/profile/manoj.gowda.venkatachala.murthy/viz/CovidDashboard_17006144468070/Dashboard1)
+
 ## Queries Overview
 
 ### Selecting Data:
