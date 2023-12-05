@@ -23,7 +23,7 @@ The primary aim of this code is to explore relationships between various movie a
 1. Ensure you have Python installed along with necessary libraries listed in the code.
 2. Download or clone this repository to access the provided Python script.
 3. Place your movie dataset (CSV file) in the same directory as the Python script or adjust the file path in the script accordingly.
-   [Dataset]()
+   [Dataset](https://github.com/ManojGowda27/Data-Analyst-Portfolio-Projects/blob/main/Movies%20Correlation%20Using%20Python/movies.csv)
 5. Run the Python script in your preferred environment to perform the analysis.
 
 ## Notes:
